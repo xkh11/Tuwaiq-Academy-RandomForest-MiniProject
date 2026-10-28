@@ -67,6 +67,6 @@ Final model on the test set:
 ## Team
 
 - Khalid Alotaibi
-- Ghadi
+- Ghadi Alshahrani
 - Omar
 - Lama
