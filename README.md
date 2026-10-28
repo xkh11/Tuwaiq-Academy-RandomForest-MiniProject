@@ -68,5 +68,5 @@ Final model on the test set:
 
 - Khalid Alotaibi
 - Ghadi Alshahrani
-- Omar
+- Omar Alfaifi
 - Lama
